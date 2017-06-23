@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="RegularExpressionTool:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/RegularExpressionTool_jar</output-path>
+    <root id="archive" name="RegularExpressionTool.jar">
+      <element id="module-output" name="RegularExpressionTool" />
+    </root>
+  </artifact>
+</component>
